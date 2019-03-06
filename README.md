@@ -19,8 +19,8 @@ use RFID-RC522 module
 (press 3)
 
 	
-	Andrew	3775000028
-	Jessie	3770050334
+	3775000028
+	3770050334
 	
 	******************
 	Configuration Menu
@@ -36,7 +36,7 @@ use RFID-RC522 module
 
 	INFO> input new card number (10-digit) and press enter.(Ex: 3775000028)
 	
-	INFO> prepare to write new card number:3770050334 (Jessie)
+	INFO> prepare to write new card number:3770050334
 	INFO> Bring your card closer to the sensing area...
 	INFO> Change new card number done.
 	
@@ -52,6 +52,6 @@ use RFID-RC522 module
 (press 1)
 
 	INFO> Bring your card closer to the sensing area..
-	* Card No.: 3770050334 (Jessie)
+	* Card No.: 3770050334
 	* Card UID: 1E 67 B6 E0
 	
